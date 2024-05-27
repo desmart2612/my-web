@@ -1,0 +1,40 @@
+body{
+    background: url("../building.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login{
+    border: 1px solid rgb(168, 168, 168);
+    width: 400px;
+    height: 400px;
+    background-color: transparent;
+    color: white;
+    border-radius: 15px;
+    margin: 10% 30%;
+    
+}
+h1{
+    margin: 10px 30%;
+}
+label, input{
+    display: block;
+    margin: 20px 20px;
+    color: white;
+}
+label{
+    font-size: larger;
+    font-weight: bold;
+}
+button{
+    margin: 20px 40%;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+input{
+    width: 80%;
+    height: 40px;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 15px;
+}
