@@ -1,0 +1,7 @@
+# netlify.toml
+
+[build]
+  command = "npm run build"  # Specify your build command
+  publish = "public"           # Specify the directory containing your built files (e.g., dist, public)
+
+# Add any other settings you need (e.g., redirects, environment variables)
